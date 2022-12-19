@@ -1,37 +1,9 @@
-Last login: Mon Dec 19 14:14:17 on ttys000
-disquemou@Air-de-Arthur monRepository % git add f1.txt
-disquemou@Air-de-Arthur monRepository % git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   f1.txt
-
-disquemou@Air-de-Arthur monRepository % git commit -m "ajout f1.txt"
-[main c2c659c] ajout f1.txt
- 1 file changed, 1 insertion(+)
- create mode 100644 f1.txt
-disquemou@Air-de-Arthur monRepository % git log
-commit c2c659c5362cf5d1296f415aeebfca27d7ab93d1 (HEAD -> main)
-Author: BadMaz <arthur.gelos@gmail.com>
-Date:   Mon Dec 19 14:31:13 2022 +0100
-
-    ajout f1.txt
-
-commit fb02c20c421b7d670f51eea1dd07efaca12f3261 (origin/main)
-Author: BadMaz <arthur.gelos@gmail.com>
-Date:   Mon Dec 19 14:18:20 2022 +0100
-
-    first commit
-disquemou@Air-de-Arthur monRepository % vi f1.txt
 
 hello world
-vi
+Bye
 ~                                                                               
 ~                                                                               
-~                                                                               
+~                  ooooo                                                             
 ~                                                                               
 ~                                                                               
 ~                                                                               
